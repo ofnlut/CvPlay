@@ -1,12 +1,12 @@
 # CvPlay
 Opencv program that recognizes faces of humans and cats.
 
-prerequisites
+## Prerequisites
 =============
 * Install Opencv 3
 * Python 3.5+
 
-How to run:
+## How to run:
 ===========
 
 clone the repo `https://github.com/ofnlut/CvPlay.git`
